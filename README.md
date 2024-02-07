@@ -2,7 +2,7 @@
 
 Welcome to the webpage for KidCoder 2.0: Teaching Computational Thinking Concepts Through Resources and Play!
 
-Here you can find the participant information sheet, all the KidCoder resource packs which are available to download, and the link to the online survey, which can be completed after running one or more sessions.
+Here you can find the KidCoder resource packs, containing various activity cards which are available to download.
 
 The activity cards have been created in line with a past study with children aged 8-11. The recommended ages for each Stage are given below.
 
@@ -14,3 +14,4 @@ Stages 1 and 2 are similar but stage 2 is intended to be more thought provoking,
 
 However, no two classes are the same and it is entirely recommended that you have a look through the activity cards and choose based on what you think would work best for your group! 
 
+Can you give us feedback to help us improve the KidCoder resource packs? This can be done by completing a short online survey, linked above, which can be completed after running one or more sessions with the activity cards. If you wish to find out more about the research we're conducting, have a look at the participant information sheet. Thanks!
